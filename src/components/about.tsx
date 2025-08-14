@@ -46,7 +46,7 @@ export const About = () => {
             <div className="relative">
                 <div className="aspect-square bg-gradient-to-br from-primary/20 to-secondary/20 rounded-2xl overflow-hidden">
                     <img
-                    src="/images/me.jfif"
+                    src="./images/me.jfif"
                     alt="My Profile Picture"
                     className="w-full h-full object-cover"
                     />
