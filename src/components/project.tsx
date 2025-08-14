@@ -8,7 +8,7 @@ export const Projects = () => {
     {
       title: "E-Commerce Platform (Blacktoe MNL)",
       description: "A full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
-      technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
+      technologies: ["React", "Node.js", "PostgreSQL"],
       image: "./images/btmnl.png",
       live: "blacktoemnl.com"
     },

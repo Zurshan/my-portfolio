@@ -40,9 +40,7 @@ export const Hero = () => {
               <Linkedin className="h-5 w-5" />
                 </a>
             </Button>
-            <Button variant="outline" size="icon" className="hover:scale-110 transition-transform">
-              <Mail className="h-5 w-5" />
-            </Button>
+
           </div>
 
           <Button 
